@@ -8,7 +8,7 @@ Follow [Lund University](https://www.lu.se/) at [NWERC 2019](https://nwerc.eu/),
 
 | Date      | Link        | Competition |
 |-----------|-------------|-------------|
-|2019-11-03 |TBA | TBA |
+|2019-11-03 |[Scoreboard](https://open.kattis.com/contests/jdscvz) | TBA |
 |2019-11-01 |[Scoreboard](https://google19.kattis.com/) | Coding Cup @ Google 2019 |
 |2019-10-27 |[Scoreboard](https://open.kattis.com/contests/imed8b) | TBA |
 |2019-10-23 |[Scoreboard](https://open.kattis.com/contests/xtfb8h) | Hong Kong Regional Contest 2016 |
