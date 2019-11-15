@@ -15,6 +15,7 @@
             <ul class="nav navbar-nav">
                 <li {% if page.sectionid=='blog' %} class="active" {% endif %}><a href="{{ site.posts.first.url | prepend: site.baseurl }}">Blog</a></li>
                 <li {% if page.sectionid=='about' %} class="active" {% endif %}><a href="{{ "/about" | prepend: site.baseurl }}">About</a></li>
+                <li {% if page.sectionid=='trainings' %} class="active" {% endif %}><a href="{{ "/trainings" | prepend: site.baseurl }}">Trainings</a></li>
                 <li ><a href="https://nwerc-lu.github.io/2018">Previous Year</a></li>
             </ul>
         </div>
