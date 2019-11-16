@@ -13,8 +13,8 @@ The practice contest has started! The scoreboard can be found at [https://scoreb
 The goal of the practice contest for our teams is to:
 - Check how you print a file on paper
 - Submit a clarification about the contest (to see how the system works)
-- Test how fast the server is for different languages. They do this by seeing how long time it takes to do a matrix multiplication of matrixes of size 500.
-- See how deep recursion is possible in python.
+- Test how fast the server is for different languages. They do this by seeing how long time it takes to do a matrix multiplication of matricies of size 500.
+- Measure the recursion limits.
 
 Below you can find the problems of the contest. Problem B seems a lot harder than A and C!
 
