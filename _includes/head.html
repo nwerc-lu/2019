@@ -5,6 +5,8 @@
   {% if page.img %}
     <meta property="og:image" content="{{ page.img | prepend: site.url }}">
     <meta name="twitter:image" content="{{ page.img | prepend: site.url }}">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{ site.title }}">
   {% endif %}
 
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
