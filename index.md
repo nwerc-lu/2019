@@ -7,6 +7,8 @@ Follow [Lund University](https://www.lu.se/) at [NWERC 2019](https://nwerc.eu/),
 
 The scoreboard will be available at [https://scoreboard.nwerc.eu/](https://scoreboard.nwerc.eu/) when the contest has started, and the problems are published 30 minutes into the competition at the [open competition](https://open.kattis.com/contests/nwerc19open).
 
+There will be a [livestream](https://www.youtube.com/icpclive) during the contest and award ceremony.
+
 ## Blog
 
 <ul class="post-list">
